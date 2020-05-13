@@ -24,6 +24,6 @@ This is a machine learning project to detect spam SMS.
 3. XGB classifier
 
 # Results:
-acurracy_Support vector machine   95.758%
-acurracy_Multinomial Naive bayes  98.58%
-acurracy_XGBClassifier            97.82%
+1. acurracy_Support vector machine   95.758%
+2. acurracy_Multinomial Naive bayes  98.58%
+3. acurracy_XGBClassifier            97.82%
